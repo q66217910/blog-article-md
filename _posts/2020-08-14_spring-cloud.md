@@ -1,5 +1,5 @@
 ---
-title: REDIS
+title: Spring-cloud
 date: 2020-08-12 12:08:42
 tags: spring-cloud
 permalink: spring-cloud
@@ -7,7 +7,6 @@ keywords: redis
 rId: MB-17031904
 ---
 
-# Spring-cloud
 
 ```
 1.服务发现: 服务发现允许集群中的进程和服务找到彼此并进行通信。
