@@ -2,7 +2,7 @@
 title: REDIS
 date: 2020-08-12 12:08:42
 tags: spring-cloud
-permalink: redis
+permalink: spring-cloud
 keywords: redis
 rId: MB-17031904
 ---
